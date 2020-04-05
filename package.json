@@ -1,7 +1,7 @@
 {
   "name": "capacitor-plugin-bluetooth-printer",
   "version": "0.0.1",
-  "description": "A bluetooth printer plugin for capacitor.",
+  "description": "A bluetooth printer plugin for capacitor (WIP)",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
